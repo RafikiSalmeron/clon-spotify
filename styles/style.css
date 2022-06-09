@@ -209,3 +209,13 @@ section > div > article img {
     font-weight: bold;
   }
 }
+@media (max-width: 600px) {
+  #pantallaSpotify {
+    display: none;
+  }
+}
+@media (max-width: 380px) {
+  nav ul{
+    padding: 0px
+  }
+}
